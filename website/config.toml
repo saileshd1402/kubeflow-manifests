@@ -92,7 +92,7 @@ pygmentsStyle = "tango"
     name = "Source"
     weight = -99
     pre = "<i class='fa-brands fa-github pr-2'></i>"
-    url = "https://github.com/nutanix/kubeflow-manifests"
+    url = "https://github.com/saileshd1402/kubeflow-manifests"
 ##########################################################
 # Language configuration
 ##########################################################
