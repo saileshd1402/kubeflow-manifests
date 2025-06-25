@@ -108,9 +108,9 @@ pygmentsStyle = "tango"
 ##########################################################
 
 [params]
-  github_repo = "https://github.com/nutanix/kubeflow-manifests"
+  github_repo = "https://github.com/saileshd1402/kubeflow-manifests"
   github_subdir = "website"
-  github_project_repo = "https://github.com/nutanix/kubeflow-manifests"
+  github_project_repo = "https://github.com/saileshd1402/kubeflow-manifests"
 
   copyright = "Nutanix"
   privacy_policy = "https://www.nutanix.com/legal/privacy-statement"
@@ -181,8 +181,8 @@ pygmentsStyle = "tango"
       [params.ui.feedback]
         enable = true
         # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-        yes = 'Thank you! <a href="https://github.com/nutanix/kubeflow-manifests/new">Send your feedback to us</a>.'
-        no = 'Sorry to hear that. Please <a href="https://github.com/nutanix/kubeflow-manifests/issues/new">tell us how we can improve</a>.'
+        yes = 'Thank you! <a href="https://github.com/saileshd1402/kubeflow-manifests/new">Send your feedback to us</a>.'
+        no = 'Sorry to hear that. Please <a href="https://github.com/saileshd1402/kubeflow-manifests/issues/new">tell us how we can improve</a>.'
 
       # Adds a reading time to the top of each doc.
       # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -210,7 +210,7 @@ pygmentsStyle = "tango"
   #   # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
   #   [[params.links.developer]]
   #     name = "GitHub"
-  #     url = "https://github.com/nutanix/kubeflow-manifests"
+  #     url = "https://github.com/saileshd1402/kubeflow-manifests"
   #     icon = "fab fa-github"
   #     desc = "Kubeflow on NKP repo"
   #   [[params.links.developer]]
