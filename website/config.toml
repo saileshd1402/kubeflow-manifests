@@ -1,7 +1,7 @@
 # Base configuration
 ##########################################################
 # Note: Update base URL for older version  when releasing a new version
-baseURL = "https://saileshd1402.github.io/kubeflow-manifests"
+baseURL = "https://saileshd1402.github.io/kubeflow-manifests/v1.8"
 title = "Kubeflow on NKE"
 description = "Open-source machine learning platform running on NKE"
 
@@ -122,7 +122,7 @@ pygmentsStyle = "tango"
   # Flag used in the "version-banner" partial to decide whether to display a 
   # banner on every page indicating that this is an archived version of the docs.
   # Set this flag to "true" if you want to display the banner.
-  archived_version = false
+  archived_version = true
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
